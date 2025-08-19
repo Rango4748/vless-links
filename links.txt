@@ -1,0 +1,1 @@
+vless://49ba6f1b-f846-43e8-9daa-ffb7bff52163@ws.piroowat.com:8080?encryption=none&security=none&type=tcp&headerType=none#poewyghu
