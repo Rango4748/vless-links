@@ -1,1 +1,0 @@
-vless://6391c9ea-82f2-459a-86f5-ffcc2f0fe23b@5.57.38.121:80?encryption=none&security=none&type=xhttp&host=bnmaj.global.ssl.fastly.net&path=%2Fzhen.zhian.azadi%3Fed%3D2048&mode=auto#0pn2g07p
